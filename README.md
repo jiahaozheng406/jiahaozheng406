@@ -95,7 +95,7 @@ My engineering practice spans diverse domains, focusing on **Embodied AI** and *
 
 ## ⚡ Interests & Idols
 
-I am an avid marathon runner, believing that the endurance required on the track mirrors the persistence needed in scientific research.
+I am an avid marathon runner, believing that the endurance required on the track mirrors the persistence needed in scientific research.Besides,my idols, LeBron James and Kylian Mbappé, have provided me with tremendous inspiration and motivation for my scientific research.
 
 <div align="center">
 
