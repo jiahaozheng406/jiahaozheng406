@@ -1,7 +1,7 @@
 <div align="center">
 
 # Welcome, I'm Jiahao Zheng (My Lo)
-### AI Researcher && Computer Scientist
+### AI Researcher | Computer Scientist | AI4S Enthusiast
 
 ![](https://img.shields.io/badge/Focus-Artificial_Intelligence-BE2EDD)
 ![](https://img.shields.io/badge/Role-AI_Researcher-20B2AA)
@@ -9,12 +9,12 @@
 
 <p>
   <a href="mailto:jiahaozheng406@gmail.com"><img src="https://img.shields.io/badge/Email-jiahaozheng406@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/xxraincandyxx"><img src="https://img.shields.io/badge/GitHub-xxraincandyxx-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/jiahaozheng406"><img src="https://img.shields.io/badge/GitHub-jiahaozheng406-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Coding+for+AI,+Coding+for+Future.;Long+May+the+Sun+Shine!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Coding+for+AI,+Coding+for+Science.;Exploring+the+Physics+of+Intelligence.)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 
@@ -24,12 +24,15 @@
   </span>
 </p>
 
-I am a computer science student and AI researcher passionate about exploring the frontiers of **Deep Learning** and **Multimodal Systems**. My current focus involves leveraging Large Language Models (LLMs) and Computer Vision to build intelligent agents and robotic solutions.
+I am an AI researcher dedicated to bridging the gap between Computer Science and Natural Sciences. My work currently focuses on **Deep Learning** and **Multimodal Agents**, with a growing passion for applying AI to solve fundamental scientific problems (AI4S).
 
-- 🔭 **Research Focus:** Multimodal Data Synthesis, AI Agents, & Computer Vision.
-- 🌱 **Currently Learning:** Advanced scaling laws for multimodal data.
-- 🎯 **Goal:** Bridging the gap between academic AI research and practical applications.
-- 💼 **Open for:** Research collaborations and AI development opportunities.
+## 🧭 Future Research Interests
+
+I am actively expanding my research horizons into the following frontier areas:
+
+* ⚛️ **Quantum Computing**: Quantum Machine Learning (QML), Quantum Algorithms.
+* 🗣️ **Natural Language Processing (NLP)**: Large Language Models, Reasoning, Semantic Understanding.
+* 🍎 **AI for Physics (AI4Physics)**: PINNs, Data-driven Discovery, Physical Simulation Acceleration.
 
 ---
 
@@ -51,15 +54,19 @@ I am a computer science student and AI researcher passionate about exploring the
 </div>
 
 <p align="center">
-<span style="font-size: 1.2em; font-weight: bold;">🔧 Development Tools</span>
+<span style="font-size: 1.2em; font-weight: bold;">🔧 Development & Research Tools</span>
 </p>
 
 <div style="text-align: center;">
 
+  ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=58C026)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  <br/>
+  ![Origin](https://img.shields.io/badge/OriginLab-FA9C1B?style=for-the-badge)
+  ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 </div>
 
@@ -67,48 +74,16 @@ I am a computer science student and AI researcher passionate about exploring the
 
 ## 🚀 Featured Projects
 
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/zjrwtx/Yijian-Agent">
-        <img src="https://img.shields.io/badge/Medical_AI-Yijian_Agent-E74C3C?style=flat-square&logo=python&logoColor=white"/>
-      </a>
-      <br />
-      <b>Enterprise-grade Medical AI Agent</b>
-      <br />
-      The world's first open-source AI Agent system designed for hospital laboratories, capable of intelligent interaction and process automation.
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/zjrwtx/Yijian-A1robot">
-        <img src="https://img.shields.io/badge/Robotics-Yijian_Robot-20B2AA?style=flat-square&logo=robot&logoColor=white"/>
-      </a>
-      <br />
-      <b>Intelligent Laboratory Robot</b>
-      <br />
-      A comprehensive AI robot solution for hospital environments, integrating SCARA mechanical control with vision algorithms.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/zjrwtx/Voice-LLM-SCARA-Robot">
-        <img src="https://img.shields.io/badge/Hardware-Voice_SCARA_Robot-BE2EDD?style=flat-square&logo=arduino&logoColor=white"/>
-      </a>
-      <br />
-      <b>Voice-Controlled SCARA Arm</b>
-      <br />
-      An intelligent robotic arm system featuring Voice Interaction (LLM) and Computer Vision (YOLOv5) for automated sorting tasks.
-    </td>
-    <td align="center">
-      <a href="https://github.com/zjrwtx/AIgene_anki">
-        <img src="https://img.shields.io/badge/EdTech-AIgene_Anki-F1C40F?style=flat-square&logo=python&logoColor=white"/>
-      </a>
-      <br />
-      <b>AI Note Generator</b>
-      <br />
-      Leverages Vision LLMs (01.AI) to batch generate visual Anki flashcards from study materials, enhancing learning efficiency.
-    </td>
-  </tr>
-</table>
+Selected works from my research and development:
+
+* **🏥 Medical AI Agent System**
+    > *Keywords: LLM Agent, RAG, LangChain, Hospital Workflow Automation, Multi-agent Collaboration.*
+
+* **🦾 Intelligent SCARA Robot**
+    > *Keywords: Computer Vision (YOLOv5), Voice Control, Inverse Kinematics, Embedded Systems, Real-time Sorting.*
+
+* **📚 AI Note Generator (AIgene Anki)**
+    > *Keywords: Vision LLM (01.AI), OCR, EdTech, Flashcard Generation, Automated Study Tools.*
 
 ---
 
