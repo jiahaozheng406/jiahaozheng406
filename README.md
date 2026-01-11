@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome, I'm Jiahao Zheng (My Lo)
+# Welcome, I'm Jiahao Zheng 
 ### AI Researcher | Computer Scientist | AI4S Enthusiast
 
 ![](https://img.shields.io/badge/Focus-Artificial_Intelligence-BE2EDD)
@@ -78,34 +78,13 @@ I am actively expanding my research horizons into the following frontier areas:
 
 My engineering practice spans diverse domains, focusing on **Embodied AI** and **Scientific Computing**. I have developed intelligent agent systems and utilized **VLA (Vision-Language-Action)** models to build full-stack robotic solutions, such as automated **desktop cleaning systems** powered by **YOLO** visual detection. Beyond classical CV, I explore advanced 3D reconstruction with **3D Gaussian Splatting (3DGS)** and apply AI to quantum physics, specifically investigating **NV Center Quantum Sensing**.
 
----
-
-## 📊 Github Statistics
+<br/>
 
 <div align="center">
   <picture>
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=jiahaozheng406&theme=github-compact"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=jiahaozheng406"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="180em"/>
-  </picture>
-  <br/>
-  <br/>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jiahaozheng406&layout=compact&langs_count=8&show_icons=true&include_all_commits&theme=shadow_green"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jiahaozheng406&layout=compact&langs_count=8&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="180em"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiahaozheng406/jiahaozheng406/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jiahaozheng406/jiahaozheng406/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jiahaozheng406/jiahaozheng406/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
