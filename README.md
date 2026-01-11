@@ -65,6 +65,7 @@ I am actively expanding my research horizons into the following frontier areas:
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  <br/>
   ![Origin](https://img.shields.io/badge/OriginLab-FA9C1B?style=for-the-badge)
   ![Typora](https://img.shields.io/badge/Typora-0998B6?style=for-the-badge&logo=typora&logoColor=white)
   ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
@@ -84,37 +85,6 @@ My engineering practice spans diverse domains, focusing on **Embodied AI** and *
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiahaozheng406/jiahaozheng406/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jiahaozheng406/jiahaozheng406/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jiahaozheng406/jiahaozheng406/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 📊 Github Statistics
-
-<div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=jiahaozheng406&theme=github-compact"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=jiahaozheng406"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="180em"/>
-  </picture>
-  <br/>
-  <br/>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jiahaozheng406&layout=compact&langs_count=8&show_icons=true&include_all_commits&theme=shadow_green"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jiahaozheng406&layout=compact&langs_count=8&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="180em"/>
   </picture>
 </div>
 
