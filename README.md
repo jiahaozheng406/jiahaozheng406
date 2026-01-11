@@ -114,10 +114,11 @@ I am an avid marathon runner, believing that the endurance required on the track
 
 ---
 
-<div align="center">
+
   
 ### 💡 "Long May the Sun Shine!"
 
+<div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 
 </div>
