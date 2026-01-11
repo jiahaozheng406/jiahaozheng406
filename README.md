@@ -65,7 +65,6 @@ I am actively expanding my research horizons into the following frontier areas:
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  <br/>
   ![Origin](https://img.shields.io/badge/OriginLab-FA9C1B?style=for-the-badge)
   ![Typora](https://img.shields.io/badge/Typora-0998B6?style=for-the-badge&logo=typora&logoColor=white)
   ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
