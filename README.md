@@ -24,7 +24,7 @@
   </span>
 </p>
 
-I am an AI researcher dedicated to bridging the gap between Computer Science and Natural Sciences. My work currently focuses on **Deep Learning** and **Multimodal Agents**, with a growing passion for applying AI to solve fundamental scientific problems (AI4S).
+I am an AI researcher dedicated to bridging the gap between Computer Science and Natural Sciences. My work currently focuses on **Deep Learning** and **Multimodal Agents**, with a growing passion for applying AI to solve fundamental scientific problems (AI4S)，espically for Quantum.
 
 ## 🧭 Future Research Interests
 
