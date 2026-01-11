@@ -102,14 +102,14 @@ I am an avid marathon runner, believing that the endurance required on the track
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td align="center" style="border: none; padding: 10px;">
-      <h3>LeBron Raymone James</h3>
+      <h3>LeBron James</h3>
       <img src="https://ts1.tc.mm.bing.net/th/id/R-C.a5f450d4cde52f37c06ab36bb8024b6a?rik=uywHBnpSep6GTw&riu=http%3a%2f%2fpuui.qpic.cn%2fvpic_cover%2fy0953kpxc0a%2fy0953kpxc0a_hz.jpg%2f1280&ehk=Z%2fnSXrKZCeEHDJYYyXQzg8VL1X8nD0IoaSd5RgloXW4%3d&risl=&pid=ImgRaw&r=0" height="220" alt="LeBron James" style="border-radius: 10px; object-fit: cover;"/><br/>
       <br/>
       <i>The NBA's all-time leading scorer and a defining figure of athletic longevity and leadership.</i>
     </td>
     <td style="border: none; width: 40px;"></td>
     <td align="center" style="border: none; padding: 10px;">
-      <h3>Kylian Mbappé Lottin</h3>
+      <h3>Kylian Mbappé</h3>
       <img src="https://ts1.tc.mm.bing.net/th/id/R-C.e2ee90ce439b63e69851176c2ca45ba1?rik=OGyVfR8LXkOqEw&riu=http%3a%2f%2foss.suning.com%2fsdsp%2fprd_scsp%2f1669451521980_9120166592db6a9a9dafadbed5f23fbe.jpeg&ehk=3GJvaNzGFxH1gBK%2bDWLk4NbRoY43Ovi0vYKoiSUTWas%3d&risl=&pid=ImgRaw&r=0" height="220" alt="Kylian Mbappé" style="border-radius: 10px; object-fit: cover;"/><br/>
       <br/>
       <i>FIFA World Cup winner and one of the most explosive and talented forwards in modern football.</i>
