@@ -34,7 +34,7 @@ I am actively expanding my research horizons into the following frontier areas:
 * 🗣️ **Natural Language Processing (NLP)**: Large Language Models, Reasoning, Semantic Understanding.
 * 🍎 **AI for Physics (AI4Physics)**: PINNs, Data-driven Discovery, Physical Simulation Acceleration.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -74,7 +74,7 @@ I am actively expanding my research horizons into the following frontier areas:
   ![DevEco Studio](https://img.shields.io/badge/DevEco_Studio-0A59F7?style=for-the-badge&logo=harmonyos&logoColor=white)
 
 </div>
----
+
 
 ## 🚀 Featured Projects
 
@@ -119,7 +119,7 @@ I am an avid marathon runner, believing that the endurance required on the track
 
 </div>
 
----
+
 
 <div align="center">
   <br/>
