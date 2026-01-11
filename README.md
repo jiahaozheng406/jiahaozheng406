@@ -43,7 +43,8 @@ I am actively expanding my research horizons into the following frontier areas:
 </p>
 
 <div style="text-align: center;">
-
+<div align="center">
+  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -59,6 +60,7 @@ I am actively expanding my research horizons into the following frontier areas:
 
 <div style="text-align: center;">
 <div align="center">
+
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=58C026)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -70,9 +72,8 @@ I am actively expanding my research horizons into the following frontier areas:
   ![Typora](https://img.shields.io/badge/Typora-0998B6?style=for-the-badge&logo=typora&logoColor=white)
   ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
   ![DevEco Studio](https://img.shields.io/badge/DevEco_Studio-0A59F7?style=for-the-badge&logo=harmonyos&logoColor=white)
-</div>
-</div>
 
+</div>
 ---
 
 ## 🚀 Featured Projects
