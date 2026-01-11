@@ -91,6 +91,8 @@ My engineering practice spans diverse domains, focusing on **Embodied AI** and *
 
 ### Contiune to construct ...
 
+</div>
+
 ## ⚡ Interests & Idols
 
 I am an avid marathon runner, believing that the endurance required on the track mirrors the persistence needed in scientific research.
@@ -98,27 +100,27 @@ I am an avid marathon runner, believing that the endurance required on the track
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
     <td align="center" style="border: none; width: 50%;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/LeBron_James_Crop_2012.jpg" width="200" alt="LeBron James" style="border-radius: 10px;"/><br/>
-      <b>LeBron James</b><br/>
-      <i>"Strive for Greatness"</i>
+      <h3>LeBron Raymone James</h3>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/LeBron_James_Lakers_2021.jpg/800px-LeBron_James_Lakers_2021.jpg" height="250" alt="LeBron James" style="border-radius: 15px; object-fit: cover;"/><br/>
+      <br/>
+      <i>The NBA's all-time leading scorer and a defining figure of athletic longevity and leadership.</i>
     </td>
     <td align="center" style="border: none; width: 50%;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93129_%28cropped%29.jpg" width="200" alt="Kylian Mbappé" style="border-radius: 10px;"/><br/>
-      <b>Kylian Mbappé</b><br/>
-      <i>"Love your dream"</i>
+      <h3>Kylian Mbappé Lottin</h3>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kylian_Mbapp%C3%A9_2018.jpg/800px-Kylian_Mbapp%C3%A9_2018.jpg" height="250" alt="Kylian Mbappé" style="border-radius: 15px; object-fit: cover;"/><br/>
+      <br/>
+      <i>FIFA World Cup winner and one of the most explosive and talented forwards in modern football.</i>
     </td>
   </tr>
-</table>
-
-</div>
+</table>>
 
 ---
 
 
-  
+<div align="center">  
 ### 💡 "Long May the Sun Shine!"
 
-<div align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 
 </div>
