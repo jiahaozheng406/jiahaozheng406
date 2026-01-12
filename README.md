@@ -29,7 +29,7 @@ I am an AI researcher dedicated to bridging the gap between Computer Science and
 > **Fun Fact:** Feel free to call me **"++"**!   It's a pun on my Chinese name:
 >  * My first name **Jiahao** sounds exactly like "Plus Sign" (加号).
 > * My surname **Zheng** shares the pronunciation with "Positive" (正). 
-> So mathematically, I am literally #++#.
+ So mathematically, I am literally **++**.
 ## 🧭 Future Research Interests
 
 I am actively expanding my research horizons into the following frontier areas:
