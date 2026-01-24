@@ -6,7 +6,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%A4%96+AI+Researcher+%7C+Robotics+Engineer;%E2%9A%9B%EF%B8%8F+Embodied+AI+%26+Transformer+Architect;%F0%9F%94%AC+AI4Science+Explorer+%7C+Algorithm+Designer;%F0%9F%9A%80+Building+Intelligence+that+Acts+%26+Thinks" alt="Typing SVG" />
 
+
+
 <br/>
+
+
 
 ```diff
 @@  "The Incremental Optimist" - Always Adding Value, Always Positive  @@
