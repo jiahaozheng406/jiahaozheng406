@@ -246,26 +246,28 @@ I am an avid **marathon runner**, believing that the endurance required on the t
 My idols, **LeBron James** and **Kylian Mbappé**, have profoundly shaped my understanding of dedication and peak performance.
 
 <div align="center">
-
 <table style="border: none; border-collapse: collapse;">
   <tr>
-    <td align="center" style="border: none; padding: 10px;">
-      <h3>🏀 LeBron James</h3>
-      <img src="https://ts1.tc.mm.bing.net/th/id/R-C.a5f450d4cde52f37c06ab36bb8024b6a?rik=uywHBnpSep6GTw&riu=http%3a%2f%2fpuui.qpic.cn%2fvpic_cover%2fy0953kpxc0a%2fy0953kpxc0a_hz.jpg%2f1280&ehk=ZZQe67zLCLBE1vp9v0D2IHnq5Y%2fwE%2b1HA66VO0gvmGE%3d&risl=&pid=ImgRaw&r=0" width="250" style="border-radius: 10px;"/>
+    <td align="center" style="border: none; padding: 15px;">
+      <h3>👑 LeBron James</h3>
+      <img src="https://ts1.tc.mm.bing.net/th/id/R-C.a5f450d4cde52f37c06ab36bb8024b6a?rik=uywHBnpSep6GTw&riu=http%3a%2f%2fpuui.qpic.cn%2fvpic_cover%2fy0953kpxc0a%2fy0953kpxc0a_hz.jpg%2f1280&ehk=ZZQe67zLCLBE1vp9v0D2IHnq5Y%2fwE%2b1HA66VO0gvmGE%3d&risl=&pid=ImgRaw&r=0" width="250" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);"/>
       <br/><br/>
-      <i>🏆 The NBA's all-time leading scorer and a defining figure of athletic longevity and leadership.</i>
+      <i>🏆 The NBA's all-time leading scorer.</i><br/>
+      <b>Learned:</b> Longevity, Leadership, and the discipline to maintain peak performance over decades.
     </td>
-    <td style="border: none; width: 60px;"></td>
-    <td align="center" style="border: none; padding: 10px;">
-      <h3>⚽ Kylian Mbappé</h3>
-      <img src="https://ts1.tc.mm.bing.net/th/id/R-C.e2ee90ce439b63e69851176c2ca45ba1?rik=OGyVfR8LXkOqEw&riu=http%3a%2f%2foss.suning.com%2fsdsp%2fprd_scsp%2f1669451521980_9120166592db6a9a9dafadbe38476a9d8.jpg&ehk=n%2f8R%2bMp3Ftr8AcDzzQwovG8gxmO%2fE%2brR79mjLlr4HU0%3d&risl=&pid=ImgRaw&r=0" width="250" style="border-radius: 10px;"/>
+    <td style="border: none; width: 50px;"></td>
+    <td align="center" style="border: none; padding: 15px;">
+      <h3>⚡ Kylian Mbappé</h3>
+      <img src="https://ts1.tc.mm.bing.net/th/id/R-C.e2ee90ce439b63e69851176c2ca45ba1?rik=OGyVfR8LXkOqEw&riu=http%3a%2f%2foss.suning.com%2fsdsp%2fprd_scsp%2f1669451521980_9120166592db6a9a9dafadbe38476a9d8.jpg&ehk=n%2f8R%2bMp3Ftr8AcDzzQwovG8gxmO%2fE%2brR79mjLlr4HU0%3d&risl=&pid=ImgRaw&r=0" width="250" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);"/>
       <br/><br/>
-      <i>🏆 FIFA World Cup winner and one of the most explosive and talented forwards in modern football.</i>
+      <i>🏆 FIFA World Cup winner.</i><br/>
+      <b>Learned:</b> Explosiveness, creativity, and the courage to perform on the world's biggest stages.
     </td>
   </tr>
 </table>
-
 </div>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
