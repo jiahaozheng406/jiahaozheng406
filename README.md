@@ -4,10 +4,9 @@
 
 # 🌌 I'm Jiahao Zheng · aka **"++"**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%A4%96+AI+Researcher+%7C+Robotics+Engineer;%E2%9A%9B%EF%B8%8F+Embodied+AI+%26+Transformer+Architect;%F0%9F%94%AC+AI4Science+Explorer+%7C+Algorithm+Designer;%F0%9F%9A%80+Building+Intelligence+that+Acts+%26+Thinks" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=160&lines=%F0%9F%A4%96+AI+Researcher+%7C+Robotics+Engineer;%E2%9A%9B%EF%B8%8F+Embodied+AI+%26+Transformer+Architect;%F0%9F%94%AC+AI4Science+Explorer+%7C+Algorithm+Designer;%F0%9F%9A%80+Building+Intelligence+that+Acts+%26+Thinks" alt="Typing SVG" />
+<br/>
 
-<br/>
-<br/>
 ![](https://img.shields.io/badge/Focus-Embodied_AI_&_Transformers-BE2EDD?style=for-the-badge&logo=robot&logoColor=white)
 ![](https://img.shields.io/badge/Specialty-ACT_Algorithm-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/Research-AI4Science-20B2AA?style=for-the-badge&logo=atom&logoColor=white)
@@ -48,8 +47,8 @@ I am an AI researcher dedicated to bridging the gap between **Computer Science**
 ### 🎯 Fun Fact: Call me **"++"**!
 
 > 💡 It's a clever pun on my Chinese name:
-> - 🔤 **Jiahao (佳昊)** sounds like "Plus Sign" (加号)
-> - ➕ **Zheng (正)** means "Positive" (正)
+> - 🔤 **Jiahao** sounds like "Plus Sign" (加号)
+> - ➕ **Zheng** means "Positive" (正)
 > 
 > So mathematically, I am literally **`++`** 😄  
 > Like the increment operator - always improving, always growing!
