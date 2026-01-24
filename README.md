@@ -32,8 +32,8 @@
 ### 🎯 Fun Fact: Call me **"++"**!
 
 > 💡 It's a clever pun on my Chinese name:
-> - 🔤 **Jiahao (佳昊)** sounds like "Plus Sign" (加号)
-> - ➕ **Zheng (正)** means "Positive" (正)
+> - 🔤 **Jiahao ** sounds like "Plus Sign" (加号)
+> - ➕ **Zheng ** means "Positive" (正)
 > 
 > So mathematically, I am literally **`++`** 😄
 
