@@ -3,17 +3,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,27&height=200&section=header&text=Welcome%20to%20My%20Universe&fontSize=50&fontColor=fff&animation=fadeIn" />
 
 # 🌌 I'm Jiahao Zheng · aka **"++"**
-<br/>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%A4%96+AI+Researcher+%7C+Robotics+Engineer;%E2%9A%9B%EF%B8%8F+Embodied+AI+%26+Transformer+Architect;%F0%9F%94%AC+AI4Science+Explorer+%7C+Algorithm+Designer;%F0%9F%9A%80+Building+Intelligence+that+Acts+%26+Thinks" alt="Typing SVG" />
 
 <br/>
-
+<br/>
 ![](https://img.shields.io/badge/Focus-Embodied_AI_&_Transformers-BE2EDD?style=for-the-badge&logo=robot&logoColor=white)
 ![](https://img.shields.io/badge/Specialty-ACT_Algorithm-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/Research-AI4Science-20B2AA?style=for-the-badge&logo=atom&logoColor=white)
 ![](https://img.shields.io/badge/School-NJUPT-005BAC?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=jiahaozheng406&color=blueviolet&style=for-the-badge)
-<br/>
+
 
 <a href="mailto:jiahaozheng406@gmail.com">
   <img src="https://img.shields.io/badge/Email-jiahaozheng406@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c71610"/>
