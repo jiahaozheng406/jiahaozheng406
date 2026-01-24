@@ -157,7 +157,6 @@ I am actively expanding my research horizons into the following frontier areas:
 
 ### 💻 Development & Research Tools
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=58C026)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -249,22 +248,22 @@ My idols, **LeBron James** and **Kylian Mbappé**, have profoundly shaped my und
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td align="center" style="border: none; padding: 15px;">
-      <h3>👑 LeBron James</h3>
-      <img src="https://ts1.tc.mm.bing.net/th/id/R-C.a5f450d4cde52f37c06ab36bb8024b6a?rik=uywHBnpSep6GTw&riu=http%3a%2f%2fpuui.qpic.cn%2fvpic_cover%2fy0953kpxc0a%2fy0953kpxc0a_hz.jpg%2f1280&ehk=ZZQe67zLCLBE1vp9v0D2IHnq5Y%2fwE%2b1HA66VO0gvmGE%3d&risl=&pid=ImgRaw&r=0" width="250" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);"/>
+       <h3>🏀 LeBron James</h3>
+      <img src="https://ts1.tc.mm.bing.net/th/id/R-C.a5f450d4cde52f37c06ab36bb8024b6a?rik=uywHBnpSep6GTw&riu=http%3a%2f%2fpuui.qpic.cn%2fvpic_cover%2fy0953kpxc0a%2fy0953kpxc0a_hz.jpg%2f1280&ehk=ZZQe67zLCLBE1vp9v0D2IHnq5Y%2fwE%2b1HA66VO0gvmGE%3d&risl=&pid=ImgRaw&r=0" width="250" style="border-radius: 10px;"/>
       <br/><br/>
-      <i>🏆 The NBA's all-time leading scorer.</i><br/>
-      <b>Learned:</b> Longevity, Leadership, and the discipline to maintain peak performance over decades.
-    </td>
-    <td style="border: none; width: 50px;"></td>
-    <td align="center" style="border: none; padding: 15px;">
-      <h3>⚡ Kylian Mbappé</h3>
-      <img src="https://ts1.tc.mm.bing.net/th/id/R-C.e2ee90ce439b63e69851176c2ca45ba1?rik=OGyVfR8LXkOqEw&riu=http%3a%2f%2foss.suning.com%2fsdsp%2fprd_scsp%2f1669451521980_9120166592db6a9a9dafadbe38476a9d8.jpg&ehk=n%2f8R%2bMp3Ftr8AcDzzQwovG8gxmO%2fE%2brR79mjLlr4HU0%3d&risl=&pid=ImgRaw&r=0" width="250" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);"/>
+       <i>🏆 The NBA's all-time leading scorer and a defining figure of athletic longevity and leadership.</i>
+       </td>
+       <td style="border: none; width: 60px;"></td>
+      <td align="center" style="border: none; padding: 10px;">
+      <h3>⚽ Kylian Mbappé</h3>
+      <img src="https://ts1.tc.mm.bing.net/th/id/R-C.e2ee90ce439b63e69851176c2ca45ba1?rik=OGyVfR8LXkOqEw&riu=http%3a%2f%2foss.suning.com%2fsdsp%2fprd_scsp%2f1669451521980_9120166592db6a9a9dafadbe38476a9d8.jpg&ehk=n%2f8R%2bMp3Ftr8AcDzzQwovG8gxmO%2fE%2brR79mjLlr4HU0%3d&risl=&pid=ImgRaw&r=0" width="250" style="border-radius: 10px;"/>
       <br/><br/>
-      <i>🏆 FIFA World Cup winner.</i><br/>
-      <b>Learned:</b> Explosiveness, creativity, and the courage to perform on the world's biggest stages.
+      <i>🏆 FIFA World Cup winner and one of the most explosive and talented forwards in modern football.</i>
     </td>
   </tr>
 </table>
+
+
 </div>
 
 
