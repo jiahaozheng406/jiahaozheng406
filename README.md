@@ -10,12 +10,9 @@
 
 <br/>
 
-
-
 ```diff
 @@  "The Incremental Optimist" - Always Adding Value, Always Positive  @@
 ```
-
 ![](https://img.shields.io/badge/Focus-Embodied_AI_&_Transformers-BE2EDD?style=for-the-badge&logo=robot&logoColor=white)
 ![](https://img.shields.io/badge/Specialty-ACT_Algorithm-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/Research-AI4Science-20B2AA?style=for-the-badge&logo=atom&logoColor=white)
