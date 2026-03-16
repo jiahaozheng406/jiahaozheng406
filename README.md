@@ -193,7 +193,7 @@ I am actively expanding my research horizons into the following frontier areas:
 My engineering practice spans diverse domains, focusing on **Embodied AI** and **Scientific Computing**. I have developed intelligent agent systems and utilized **VLA (Vision-Language-Action)** models for real-world applications.
 
 <br/>
-## 📊 Metric Grid | 动态指标
+### 📊 Metric Grid
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=jiahaozheng406&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=c9a227&text_color=d9d9d9&icon_color=21c987" alt="GitHub stats" />
