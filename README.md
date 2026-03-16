@@ -195,21 +195,26 @@ My engineering practice spans diverse domains, focusing on **Embodied AI** and *
 <br/>
 ### 📊 Metric Grid
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="left" valign="top">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jiahaozheng406&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=c9a227&text_color=d9d9d9&icon_color=21c987" alt="GitHub deep stats" />
+  <br/>
   <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Projects&query=$.public_repos&url=https://api.github.com/users/jiahaozheng406&color=21c987&style=for-the-badge" alt="Total projects" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=$.followers&url=https://api.github.com/users/jiahaozheng406&color=c9a227&style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=$.following&url=https://api.github.com/users/jiahaozheng406&color=6aa6f8&style=for-the-badge" alt="Following" />
-  <img src="https://komarev.com/ghpvc/?username=jiahaozheng406&style=for-the-badge&color=8a5cf6" alt="Profile views total" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jiahaozheng406&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github&hide_border=true&bg_color=00000000&title_color=c9a227&text_color=d9d9d9&icon_color=21c987" alt="GitHub deep stats" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=$.value&url=https://api.countapi.xyz/hit/jiahaozheng406/profile&color=8a5cf6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Commits&query=$.total_commit_contributions&url=https://github-contributions-api.deno.dev/jiahaozheng406.json&color=c9a227&style=for-the-badge" alt="Total commits" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=$.total_stars&url=https://github-contributions-api.deno.dev/jiahaozheng406.json&color=6aa6f8&style=for-the-badge" alt="Total stars" />
+</td>
+<td align="right" valign="top">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiahaozheng406&layout=compact&hide_border=true&bg_color=00000000&title_color=c9a227&text_color=d9d9d9" alt="Top languages" />
-</p>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=jiahaozheng406&hide_border=true&background=00000000&ring=c9a227&fire=21c987&currStreakLabel=f5f5f5&sideLabels=bdbdbd&dates=7f7f7f&currStreakNum=f5f5f5&sideNums=f5f5f5" alt="GitHub streak" />
 </p>
+
 <div align="center">
 
 ### 🐍 GitHub Contribution Snake
