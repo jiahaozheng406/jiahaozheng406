@@ -196,7 +196,14 @@ My engineering practice spans diverse domains, focusing on **Embodied AI** and *
 ### 📊 Metric Grid
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jiahaozheng406&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=c9a227&text_color=d9d9d9&icon_color=21c987" alt="GitHub stats" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Projects&query=$.public_repos&url=https://api.github.com/users/jiahaozheng406&color=21c987&style=for-the-badge" alt="Total projects" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=$.followers&url=https://api.github.com/users/jiahaozheng406&color=c9a227&style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=$.following&url=https://api.github.com/users/jiahaozheng406&color=6aa6f8&style=for-the-badge" alt="Following" />
+  <img src="https://komarev.com/ghpvc/?username=jiahaozheng406&style=for-the-badge&color=8a5cf6" alt="Profile views total" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jiahaozheng406&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github&hide_border=true&bg_color=00000000&title_color=c9a227&text_color=d9d9d9&icon_color=21c987" alt="GitHub deep stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiahaozheng406&layout=compact&hide_border=true&bg_color=00000000&title_color=c9a227&text_color=d9d9d9" alt="Top languages" />
 </p>
 
