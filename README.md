@@ -193,7 +193,16 @@ I am actively expanding my research horizons into the following frontier areas:
 My engineering practice spans diverse domains, focusing on **Embodied AI** and **Scientific Computing**. I have developed intelligent agent systems and utilized **VLA (Vision-Language-Action)** models for real-world applications.
 
 <br/>
+## 📊 Metric Grid | 动态指标
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jiahaozheng406&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=c9a227&text_color=d9d9d9&icon_color=21c987" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiahaozheng406&layout=compact&hide_border=true&bg_color=00000000&title_color=c9a227&text_color=d9d9d9" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=jiahaozheng406&hide_border=true&background=00000000&ring=c9a227&fire=21c987&currStreakLabel=f5f5f5&sideLabels=bdbdbd&dates=7f7f7f&currStreakNum=f5f5f5&sideNums=f5f5f5" alt="GitHub streak" />
+</p>
 <div align="center">
 
 ### 🐍 GitHub Contribution Snake
