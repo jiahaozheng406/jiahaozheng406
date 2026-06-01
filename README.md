@@ -4,14 +4,17 @@
 
 # 🌌 I'm Jiahao Zheng · aka **"++"**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=160&lines=%F0%9F%A4%96+AI+Researcher+%7C+Robotics+Engineer;%E2%9A%9B%EF%B8%8F+Embodied+AI+%26+Transformer+Architect;%F0%9F%94%AC+AI4Science+Explorer+%7C+Algorithm+Designer;%F0%9F%9A%80+Building+Intelligence+that+Acts+%26+Thinks" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=160&lines=%F0%9F%A7%8A+3DGS+%26+3D+Reconstruction+Explorer;%E2%9A%9B%EF%B8%8F+AI4Quantum+%7C+Physics-Guided+Learning;%F0%9F%A4%96+Robot+Vision+with+Hardware+Systems;%F0%9F%8C%90+Future:+MLLMs,+World+Models,+CAD+Generation" alt="Typing SVG" />
+
 <br/>
 
-![](https://img.shields.io/badge/Focus-Embodied_AI_&_Transformers-BE2EDD?style=for-the-badge&logo=robot&logoColor=white)
-![](https://img.shields.io/badge/Specialty-ACT_Algorithm-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Research-AI4Science-20B2AA?style=for-the-badge&logo=atom&logoColor=white)
+![](https://img.shields.io/badge/Focus-3DGS_&_3D_Reconstruction-BE2EDD?style=for-the-badge&logo=blender&logoColor=white)
+![](https://img.shields.io/badge/Research-AI4Quantum-20B2AA?style=for-the-badge&logo=atom&logoColor=white)
+![](https://img.shields.io/badge/System-Robot_Vision_+_Hardware-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white)
+![](https://img.shields.io/badge/Future-World_Models_&_MLLMs-6C5CE7?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![](https://img.shields.io/badge/School-NJUPT-005BAC?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=jiahaozheng406&color=blueviolet&style=for-the-badge)
+
 <br/>
 
 <a href="mailto:jiahaozheng406@gmail.com">
@@ -23,39 +26,60 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me - **"The Incremental Optimist"**
+## 🖥️ Terminal Mode: `whoami`
 
-<img align="right" alt="AI Robot" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+```bash
+$ whoami
+Jiahao Zheng, aka "++"
+Undergraduate @ Nanjing University of Posts and Telecommunications
+Major: Internet of Things Engineering
 
-### 🎓 Academic Identity
+$ cat current_focus.txt
+3D reconstruction / 3DGS
+AI for quantum sensing
+Robot vision with hardware systems
+CAD / 3D content generation
 
-**Undergraduate Researcher** at **Nanjing University of Posts and Telecommunications (NJUPT)**  
-📍 Majoring in **Computer Science and Artificial Intelligence**
+$ ./future_route.sh
+Quantum Computing × AI
+  -> Multimodal Foundation Models
+  -> World Models for generation and interaction
+  -> Embodied agents that understand, predict, and act
 
-### 🚀 Research Philosophy
+$ ./vibe_check.sh
+coding.............. on
+paper reading....... on
+scientific plots.... carefully aligned
+marathon mode....... sometimes painful, always worth it
+curiosity........... very online
+```
 
-I am an AI researcher dedicated to bridging the gap between **Computer Science** and **Natural Sciences**. My work currently focuses on:
+---
 
-- 🦾 **Embodied AI & Robotics** - Building agents that understand and manipulate the physical world
-- 🧠 **Transformer Architectures** - Leveraging attention mechanisms for multimodal understanding
-- 🎯 **Action Chunking Transformers (ACT)** - Pioneering imitation learning for robotic manipulation
-- 🔬 **AI for Science (AI4S)** - Accelerating scientific discovery through intelligent computation
-- 🤖 **Multimodal Agents** - Integrating vision, language, and action for intelligent systems
+## 🚀 Research Philosophy
 
-### 🎯 Fun Fact: Call me **"++"**!
+I am interested in building intelligent systems that connect **3D visual understanding**, **physical-world signals**, and **interactive generation**.
 
-> 💡 It's a clever pun on my Chinese name:
-> - 🔤 **Jiahao** sounds like "Plus Sign" (加号)
-> - ➕ **Zheng** means "Positive" (正)
-> 
-> So mathematically, I am literally **`++`** 😄  
-> Like the increment operator - always improving, always growing!
+My work currently focuses on:
 
-<br clear="right"/>
+- 🧊 **3D Reconstruction & 3DGS**  
+  Making sparse-view 3D representations more stable, geometric, and useful beyond pretty rendering.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- ⚛️ **AI for Quantum Sensing**  
+  Learning from noisy physical signals, physics-guided constraints, and robust generalization in NV-center sensing.
+
+- 🤖 **Robot Vision with Hardware Systems**  
+  Connecting visual perception, real-time deployment, embedded hardware, and robotic decision-making.
+
+- 🧩 **CAD / 3D Content Generation**  
+  Exploring how AI can generate structured 3D assets, CAD-like representations, and editable visual worlds.
+
+> Tiny belief: AI should not only describe the world.  
+> It should also help us **reconstruct, simulate, edit, and interact with it**.
+
+---
 
 ## 🔬 Research Focus & Expertise
 
@@ -65,38 +89,65 @@ I am an AI researcher dedicated to bridging the gap between **Computer Science**
 <tr>
 <td width="50%">
 
-### 🤖 Embodied Intelligence
+### 🧊 3D Reconstruction & 3DGS
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%">
+**What I care about:**
+- Sparse-view 3D Gaussian Splatting
+- Geometry-aware regularization
+- Depth priors & multi-view consistency
+- Stable 3D representations under imperfect observations
 
-**Core Algorithms:**
-- 🎯 **ACT (Action Chunking Transformer)**
-  - Temporal action sequence modeling
-  - Imitation learning for robotic manipulation
-  - CVAE-based policy learning
-  
-- 🦾 **Vision-Language-Action Models**
-  - Cross-modal fusion architectures
-  - End-to-end perception-action pipelines
-  - Real-world robotic deployment
+**Tiny belief:**  
+Good 3D is not only about looking good —  
+it should be useful for understanding, editing, and interacting with the world.
 
 </td>
 <td width="50%">
 
-### 🧠 Transformer Architectures
+### ⚛️ AI for Quantum Sensing
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%">
+**What I care about:**
+- Diamond NV-center sensing
+- Low-SNR signal reconstruction
+- Physics-guided loss design
+- Robust thermometry and cross-sample generalization
 
-**Technical Depth:**
-- 🔍 **Self-Attention Mechanisms**
-  - Multi-head attention optimization
-  - Positional encoding strategies
-  - Sparse attention patterns
-  
-- 📊 **Multimodal Transformers**
-  - Vision-Language pre-training
-  - Cross-modal alignment techniques
-  - Efficient fine-tuning methods (LoRA, Adapter)
+**Tiny belief:**  
+Noisy physical signals are annoying,  
+but they are excellent teachers of robustness.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 Robot Vision + Hardware
+
+**What I care about:**
+- Real-time perception
+- Vision-guided robotic systems
+- Embedded deployment & hardware-aware AI
+- Sim2Real-style perception–decision–action loops
+
+**Tiny belief:**  
+A vision model should not only recognize things —  
+sometimes it should help a robot actually do things.
+
+</td>
+<td width="50%">
+
+### 🧩 CAD / 3D Generation
+
+**What I care about:**
+- CAD-like structured generation
+- 3D assets and editable geometry
+- AI-assisted design and reconstruction
+- From visual content to usable 3D representations
+
+**Tiny belief:**  
+The fun part is not just generating pixels,  
+but building worlds that can be edited, simulated, and reused.
 
 </td>
 </tr>
@@ -104,178 +155,68 @@ I am an AI researcher dedicated to bridging the gap between **Computer Science**
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🧭 Future Research Interests
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
 I am actively expanding my research horizons into the following frontier areas:
 
-| 🌟 Domain | 🎯 Specific Interests | 📚 Key Techniques |
-|-----------|----------------------|-------------------|
-| ⚛️ **Quantum Computing** | Quantum Machine Learning (QML), Quantum Algorithms | Qiskit, PennyLane, Cirq |
-| 🗣️ **Natural Language Processing** | Large Language Models, Reasoning, Semantic Understanding | GPT-4, Claude, Llama 3 |
-| 🍎 **AI for Physics** | PINNs, Data-driven Discovery, Physical Simulation Acceleration | SchNet, NequIP, Physics-Informed Networks |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Tech Stack
+| 🌟 Domain | 🎯 Specific Interests | 🧪 What I want to explore |
+|-----------|----------------------|---------------------------|
+| ⚛️ **Quantum Computing × AI** | Quantum machine learning, quantum algorithms, AI4Quantum | Could new computing paradigms help AI escape the forever-hungry GPU buffet? |
+| 🧠 **Multimodal Foundation Models** | Vision-language models, 3D-aware MLLMs, spatial reasoning | Giving models stronger eyes, better grounding, and fewer hallucinated castles. |
+| 🌐 **World Models** | 3D world generation, interaction prediction, Real2Sim / Sim2Real loops | From seeing the world to simulating, editing, predicting, and acting in it. |
+| 🎬 **Creative 3D / CAD Generation** | CAD generation, AI4Graphics, editable 3D assets | Turning sketches, text, images, or messy ideas into structured 3D objects. |
 
 <div align="center">
 
-### 🤖 AI & Deep Learning Frameworks
+### **3D Vision → Multimodal Foundation Models → World Models → Embodied Intelligence**
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Not because it sounds fancy, but because it feels like a path from **pixels** to **worlds**.
+
+---
+
+## 🛠️ Tools I Often Touch
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-009688?style=for-the-badge&logo=google&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black)
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 🦾 Robotics & Embodied AI
-
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![OpenAI Gym](https://img.shields.io/badge/OpenAI_Gym-0081A5?style=for-the-badge&logo=openai&logoColor=white)
-![MuJoCo](https://img.shields.io/badge/MuJoCo-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white)
-
-### 💻 Development & Research Tools
-
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=58C026)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🔬 Scientific Computing
-
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Origin](https://img.shields.io/badge/OriginLab-FA9C1B?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-### 🎨 Productivity & Documentation
-
-![Typora](https://img.shields.io/badge/Typora-0998B6?style=for-the-badge&logo=typora&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 🎮 Mobile & Others
-
-![DevEco Studio](https://img.shields.io/badge/DevEco_Studio-0A59F7?style=for-the-badge&logo=harmonyos&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-FF8C00?style=for-the-badge&logo=robotframework&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Origin](https://img.shields.io/badge/OriginLab-FA9C1B?style=for-the-badge)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 🚀 Featured Projects
+## 🍿 Human Mode
+
+- I like research that is both **technically solid** and **visually / physically meaningful**.
+- I enjoy building things: code, demos, diagrams, slides, and occasionally chaotic but cute project folders.
+- I run marathons, play football, and believe debugging is also a kind of endurance sport.
+- I am cheerful, curious, and allergic to boring research questions.
+
+> If you care about 3D worlds, multimodal agents, quantum-flavored AI, or AI meeting the physical universe, we probably have things to talk about.
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-</div>
-
-My engineering practice spans diverse domains, focusing on **Embodied AI** and **Scientific Computing**. I have developed intelligent agent systems and utilized **VLA (Vision-Language-Action)** models for real-world applications.
+<img src="https://github-readme-stats.vercel.app/api?username=jiahaozheng406&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiahaozheng406&layout=compact&theme=radical&hide_border=true" height="165" />
 
 <br/>
-
-
-<div align="center">
-
-### 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxraincandyxx/xxraincandyxx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xxraincandyxx/xxraincandyxx/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xxraincandyxx/xxraincandyxx/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F85D7F&center=true&width=500&lines=Continue+to+construct+...;Building+the+future+with+AI!;Every+commit+counts!" alt="Motivation" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## ⚡ Interests & Idols
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
-
-</div>
-
-### 🏃‍♂️ The Runner's Mindset
-
-<img align="right" alt="Running GIF" width="380" src="https://user-images.githubusercontent.com/74038190/229223156-143a1f73-bbd9-4287-bdb6-362948549a5c.gif">
-
-I am an avid **marathon runner**, believing that the endurance required on the track mirrors the persistence needed in scientific research.
-
-> **"Every kilometer on the track is a metaphor for every epoch in training neural networks."**
-
-**What Running Teaches Me:**
-- **Patience** - Models converge slowly, just like endurance builds gradually
-- **Resilience** - Hitting the wall at km 30 ≈ NaN loss at epoch 87
-- **Optimization** - Finding the right pace ≈ Finding the right learning rate
-
-<br clear="right"/>
-
-### 🌟 My Idols - Champions of Dedication
-
-My idols, **LeBron James** and **Kylian Mbappé**, have profoundly shaped my understanding of dedication and peak performance.
-
-<div align="center">
-
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td align="center" style="border: none; padding: 10px;">
-      <h3>LeBron James</h3>
-      <img src="https://ts1.tc.mm.bing.net/th/id/R-C.a5f450d4cde52f37c06ab36bb8024b6a?rik=uywHBnpSep6GTw&riu=http%3a%2f%2fpuui.qpic.cn%2fvpic_cover%2fy0953kpxc0a%2fy0953kpxc0a_hz.jpg%2f1280&ehk=Z%2fnSXrKZCeEHDJYYyXQzg8VL1X8nD0IoaSd5RgloXW4%3d&risl=&pid=ImgRaw&r=0" height="220" alt="LeBron James" style="border-radius: 10px; object-fit: cover;"/><br/>
-      <br/>
-      <i>The NBA's all-time leading scorer and a defining figure of athletic longevity and leadership.</i>
-    </td>
-    <td style="border: none; width: 40px;"></td>
-    <td align="center" style="border: none; padding: 10px;">
-      <h3>Kylian Mbappé</h3>
-      <img src="https://ts1.tc.mm.bing.net/th/id/R-C.e2ee90ce439b63e69851176c2ca45ba1?rik=OGyVfR8LXkOqEw&riu=http%3a%2f%2foss.suning.com%2fsdsp%2fprd_scsp%2f1669451521980_9120166592db6a9a9dafadbed5f23fbe.jpeg&ehk=3GJvaNzGFxH1gBK%2bDWLk4NbRoY43Ovi0vYKoiSUTWas%3d&risl=&pid=ImgRaw&r=0" height="220" alt="Kylian Mbappé" style="border-radius: 10px; object-fit: cover;"/><br/>
-      <br/>
-      <i>FIFA World Cup winner and one of the most explosive and talented forwards in modern football.</i>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,27&height=150&section=footer&text=Long%20May%20the%20Sun%20Shine!&fontSize=35&fontColor=fff&animation=fadeIn" />
-
-### 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
-
 <br/>
 
-**⭐️ From [jiahaozheng406](https://github.com/jiahaozheng406) · "++" · The Incremental Optimist**
-
-<sub>**"Coding for AI, Coding for Science. Exploring the Physics of Intelligence."** 🌌</sub>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F85D7F&center=true&width=650&lines=Keep+building+worlds,+not+just+benchmarks.;Stay+curious,+stay+grounded,+stay+slightly+chaotic.;Every+commit+counts,+even+the+weird+ones." alt="Motivation" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,27&height=120&section=footer" />
