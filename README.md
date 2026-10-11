@@ -1,52 +1,94 @@
-# Jiahao Zheng · 郑家浩
-### aka `++` · The incremental optimist
+<div align="center">
 
-**3D vision · Robotics · Computer graphics · Embodied AI**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,27&height=200&section=header&text=Welcome%20to%20My%20Universe&fontSize=50&fontColor=fff&animation=fadeIn" />
 
-[Academic homepage](https://jiahaozheng406.github.io/) · [Research](https://jiahaozheng406.github.io/research.html) · [Projects & honors](https://jiahaozheng406.github.io/projects.html) · [Email](mailto:jiahaozheng2005@163.com) · [Gmail](mailto:jiahaozheng406@gmail.com) · [ORCID](https://orcid.org/0009-0006-1588-8788)
+# 🌌 I'm Jiahao Zheng · aka **"++"**
 
-## About
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=160&lines=%F0%9F%A7%8A+3DGS+%26+3D+Reconstruction+Explorer;%E2%9A%9B%EF%B8%8F+AI4Quantum+%7C+Physics-Guided+Learning;%F0%9F%A4%96+Robot+Vision+with+Hardware+Systems;%F0%9F%93%90+CAD+Generation+%7C+World+Models+Soon" alt="Typing SVG" />
+<br/>
 
-I am an undergraduate in **IoT Engineering at NJUPT**. My work spans 3D vision, robotic perception, embodied intelligence and computer graphics, building on earlier research that combined representation learning with structural and physical constraints.
+![](https://img.shields.io/badge/Focus-3DGS_&_3D_Reconstruction-BE2EDD?style=for-the-badge&logo=blender&logoColor=white)
+![](https://img.shields.io/badge/Research-AI4Quantum-20B2AA?style=for-the-badge&logo=atom&logoColor=white)
+![](https://img.shields.io/badge/System-Robot_Vision_+_Hardware-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white)
+![](https://img.shields.io/badge/Future-MLLMs_&_World_Models-6C5CE7?style=for-the-badge&logo=googlegemini&logoColor=white)
+![](https://img.shields.io/badge/School-NJUPT-005BAC?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=jiahaozheng406&color=blueviolet&style=for-the-badge)
+<br/>
 
-I have been **pre-admitted to the master's program in Artificial Intelligence** at the **State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA)** through recommendation with entrance-examination exemption. Expected enrollment: **September 2027**.
+<a href="mailto:jiahaozheng406@gmail.com">
+  <img src="https://img.shields.io/badge/Email-jiahaozheng406@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c71610"/>
+</a>
+<a href="https://github.com/jiahaozheng406">
+  <img src="https://img.shields.io/badge/GitHub-jiahaozheng406-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-I also co-founded a wearable-sensing venture, focusing on AI development. I am currently learning **AI infrastructure and computer architecture**.
+</div>
 
-## Research journey
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-1. **Physics-aware AI & scientific sensing**: NV-center sensing, spectral learning and signal reconstruction.
-2. **Robotic vision & embedded intelligence**: target perception, spatial reasoning and hardware-aware deployment.
-3. **3D vision, graphics & embodied AI**: sparse-view reconstruction, executable CAD generation and Real2Sim–Sim2Real.
+## About Me · The Incremental Optimist
+
+<img align="right" alt="AI Robot" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+I'm an **IoT Engineering undergraduate at NJUPT**, working on **3D vision, robotics, computer graphics and embodied AI**.
+
+**Next stop:** pre-admitted to the AI master's program at **MAIS, CASIA**, starting September 2027 through recommendation with entrance-examination exemption.
+
+I also co-founded a wearable-sensing venture focused on AI, and am learning **AI infrastructure and computer architecture**.
+
+Call me **`++`**: always curious, always learning, always improving.
+
+[More about me](https://jiahaozheng406.github.io/) · [Email](mailto:jiahaozheng2005@163.com)
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Research & Building
+
+- **Physics-aware AI**: learning from physical signals and scientific sensing.
+- **Robotics & embedded vision**: connecting perception with real-world execution.
+- **3D vision & graphics**: reconstruction, editable CAD and Real2Sim–Sim2Real.
 
 ## Projects
 
-| Project | What it does | Links |
-| --- | --- | --- |
-| **EVA** | A collaborative six-DoF robot system with camera perception, Python orchestration, C++ kinematics and browser-based 3D visualization and control. Developed with Liyao Wu; my research fork preserves the upstream project history. | [Demo](https://jiahaozheng406.github.io/EVA-oss/) · [Code](https://github.com/jiahaozheng406/EVA-oss) |
-| **SegGeoGS / 3DGS-Research** | Sparse-view 3D Gaussian Splatting with hierarchical depth supervision and multi-view consistency. | [Code](https://github.com/jiahaozheng406/3DGS-Research) · [Paper](https://doi.org/10.1145/3805622.3810640) |
-| **Intelligent desktop organizer** | Visual object detection and language-guided task planning connected to SCARA execution on a RISC-V platform. | [Code](https://github.com/jiahaozheng406/Voice-LLM-SCARA-Robot-jichuangsai-) |
-| **Part2FullNet** | Sentry-robot perception under occlusion for RoboMaster 3V3, with embedded pose estimation and tracking. | [Project](https://jiahaozheng406.github.io/projects.html#robotics) |
-| **Real2Sim–Sim2Real** | Editable reconstructed environments, simulation-based policy learning and transfer to physical robots. | [Research](https://jiahaozheng406.github.io/research.html) |
+- **[EVA](https://jiahaozheng406.github.io/EVA-oss/)** — a collaborative robot system with perception, motion control and a 3D interface. [Code](https://github.com/jiahaozheng406/EVA-oss)
+- **[3DGS-Research](https://github.com/jiahaozheng406/3DGS-Research)** — sparse-view 3D reconstruction.
+- **[Intelligent desktop organizer](https://github.com/jiahaozheng406/Voice-LLM-SCARA-Robot-jichuangsai-)** — vision, language-guided planning and robotic execution.
 
-## Research highlights
+[Explore more projects](https://jiahaozheng406.github.io/projects.html)
 
-- **TopoGen**: topology-guided multimodal generation for executable CadQuery synthesis. *ICLR 2027 submission; second author.*
-- **KV Thickets**: reusable task adaptation through random prefix-cache perturbations under frozen model weights. *ICLR 2027 submission; co-author.*
-- **Sparse-view 3D Gaussian Splatting**: hierarchical depth and multi-view consistency. *ACM ICMR 2026; second author.* [Paper](https://doi.org/10.1145/3805622.3810640)
-- **Physics-aware diamond thermometry**: spectral trend learning beyond the zero-phonon line. *Applied Physics Letters, 2026; first author.* [Paper](https://doi.org/10.1063/5.0339528)
-- **NV-center pulse recovery**: U-Net denoising and digital signal reconstruction. *Chinese Physics B; accepted manuscript, 2026.* [Paper](https://doi.org/10.1088/1674-1056/ae5f88)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Submission status is distinct from acceptance. More details are on my [academic homepage](https://jiahaozheng406.github.io/research.html).
+## Tools I Use
 
-## Tools I work with
+<div align="center">
 
-**Research:** Python, PyTorch, MuJoCo, Isaac Sim, 3D Gaussian Splatting  
-**Deployment:** TensorRT, Jetson Orin NX, RISC-V / EIC7700  
-**Everyday work:** Linux, Git, LaTeX, MATLAB
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-FF6F00?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-## Beyond research
+</div>
 
-I enjoy **football, marathon running and hiking**. The nickname `++` is a reminder to stay curious and improve a little each day.
+## Beyond the Keyboard
 
-*For the full academic story and recent news, visit [jiahaozheng406.github.io](https://jiahaozheng406.github.io/).*
+**Football · Marathon · Hiking**  
+Inspired by Kylian Mbappé and LeBron James: passion, persistence and teamwork.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,27&height=150&section=footer&text=Long%20May%20the%20Sun%20Shine!&fontSize=35&fontColor=fff&animation=fadeIn" />
+
+
+
+**⭐️ From [jiahaozheng406](https://github.com/jiahaozheng406) · "++" · The Incremental Optimist**
+
+<sub>**"Coding for AI, Coding for Science. Exploring the Physics of Intelligence."** 🌌</sub>
+
+</div>
+
